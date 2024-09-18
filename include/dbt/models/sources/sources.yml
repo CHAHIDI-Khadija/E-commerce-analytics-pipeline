@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: ecommerce_analytics
+    database: put_ur_identifier_here
+
+    tables:
+      - name: customers
+      - name: country
+      - name: products
+      - name: orders
+      - name: order_items
+      - name: order_payments
+      - name: category_translation
+      - name: sellers
+      - name: geolocation
+
