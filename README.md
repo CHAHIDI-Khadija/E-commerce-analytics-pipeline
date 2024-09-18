@@ -21,20 +21,11 @@ Here is the architecture of the project:
 
 
 
-# 📊 Results and Insights
+# 📊 Dashboard
 
-##  E-commerce Dashboard
 ![image](https://github.com/user-attachments/assets/d955daae-6564-4ac3-9f0f-c34746a2e017)
 
-##  📈 Key Insights
-📍Top 3 products categories 
-- bed_bath_table
-- sports leisures
-- furniture decor
-  
-📍 Most orders have been delivered successfully, with only a small percentage being canceled or pending.
 
-📍Customers are primarily concentrated in Brazil, with notable distributions across North America, Europe, and parts of Africa and Asia, reflecting a diverse customer base.
 
 
 
