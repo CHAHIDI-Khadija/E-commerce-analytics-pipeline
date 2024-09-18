@@ -31,7 +31,9 @@ Here is the architecture of the project:
 - bed_bath_table
 - sports leisures
 - furniture decor
+  
 📍 Most orders have been delivered successfully, with only a small percentage being canceled or pending.
+
 📍Customers are primarily concentrated in Brazil, with notable distributions across North America, Europe, and parts of Africa and Asia, reflecting a diverse customer base.
 
 
