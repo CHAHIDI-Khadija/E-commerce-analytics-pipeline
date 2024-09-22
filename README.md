@@ -4,7 +4,7 @@
 
 This project represents an end-to-end data analytics pipeline that automates the entire data workflow, from ingestion to visualization. It covers data ingestion, transformation, loading, and workflow orchestration.
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Cloud Platform: Google Cloud Platform (GCP)
 - Data Orchestration: Apache Airflow, Docker
@@ -13,7 +13,7 @@ This project represents an end-to-end data analytics pipeline that automates the
 - Data Visualization: Looker Studio
 - Languages: Python, SQL
 
-#  Architecture
+##  Architecture
 
 Here is the architecture of the project:
 ![image](https://github.com/user-attachments/assets/4068199f-3019-4c38-ad30-08762d2b89e6)
@@ -27,7 +27,7 @@ The architecture can be summarized as follows:
 - Visualization → Final insights and dashboards created using Looker Studio.
 
 
-# 📊 Dashboard
+## 📊 Dashboard
 
 ![image](https://github.com/user-attachments/assets/d955daae-6564-4ac3-9f0f-c34746a2e017)
 
