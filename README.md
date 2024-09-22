@@ -1,6 +1,6 @@
 # E-commerce-analytics-pipeline 
  
-# 🚀 Project Overview
+## 🚀 Project Overview
 
 This project represents an end-to-end data analytics pipeline that automates the entire data workflow, from ingestion to visualization. It covers data ingestion, transformation, loading, and workflow orchestration.
 
