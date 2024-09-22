@@ -4,7 +4,7 @@
 
 This project represents an end-to-end data analytics pipeline that automates the entire data workflow, from ingestion to visualization. It covers data ingestion, transformation, loading, and workflow orchestration.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Cloud Platform: Google Cloud Platform (GCP)
 - Data Orchestration: Apache Airflow, Docker
